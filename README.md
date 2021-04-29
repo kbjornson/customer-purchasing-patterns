@@ -16,5 +16,5 @@ The goal for Task 2 is to dive deeper into the data by implementing 3 different 
 - Are there differences in the age of customers across the different regions? If so, can we predict the age of a customer in a region based on the other demographic data?
 - Is there any relationship between the age of a customer and whether a purchase was made online or in-store? Do any other factors correlate to whether a purchase was made online or in-store?
 
-The results of the analysis are located in the attached PowerPoint in the form of a .pdf file. The PowerPoint was a group project/presentation, so I have credited my other group members on the first slide. Although the presentation was donw as a group, all of the analysis in Python is my own work and all graphs used in the PowerPoint are from my analysis.
+The results of the analysis are located in the attached PowerPoint in the form of a .pdf file, titled "Customer Purchasing Patterns Report". The PowerPoint was a group project/presentation, so I have credited my other group members on the first slide. Although the presentation was done as a group, all of the analysis in Python is my own work and all graphs used in the PowerPoint are from my analysis.
 The premise behind the presentation was to present results of the analysis along with recommendations to the company (Blackwell).
